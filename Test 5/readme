@@ -1,0 +1,11 @@
+Problems
+
+I am currently using the acme salon assignment file. 
+
+I am using a node to ask the user to create an appointment. How do I setup a calender to select a date? And should I use a walker or node to create the appointment?
+
+I use the walker to store the service and cost after creating the appointment. Then calculate the value in the node of previous service and current requesting service to give a total if more than one service is requested. Is that the correct way?
+
+Is there a better way to make the ai smarter without creating a messy graph like asking the walker to check the utterance for 2 or more intent to make more than one hops?
+
+How to disengage at the closing state with out using the "has startdisengage"
